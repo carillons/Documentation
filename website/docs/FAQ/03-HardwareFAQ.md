@@ -30,4 +30,4 @@ With additional channels, you have additional spatial resolution. The Ganglion (
 
 ## Where do I download the OpenBCI software?
 
-You can go to our [downloads page](http://openbci.com/donation)!
+You can go to our [downloads page](http://openbci.com/downloads)!
